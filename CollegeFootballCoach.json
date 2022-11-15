@@ -4,7 +4,7 @@
       "confTeams" : [
         {
           "abbreviation": "BAMA",
-          "prestige": "95",
+          "prestige": "90",
           "hexColor" : "A60C31",
           "rival": "AUB",
           "headCoach" : {
@@ -100,7 +100,7 @@
         },
         {
           "abbreviation" : "LSU",
-          "prestige" : "92",
+          "prestige" : "90",
           "hexColor" : "#461D7C",
           "rival" : "ARK",
           "headCoach" : {
@@ -212,7 +212,7 @@
             "baselinePrestige" : "75",
             "ratDiscipline" : "77",
             "ratOvr" : "75",
-            "name" : "Gus Malzahn",
+            "name" : "Bill Smith",
             "contractYear" : "0"
           },
           "name" : "Auburn",
@@ -244,7 +244,7 @@
         }
       ],
       "confFullName" : "Southeastern Conference",
-      "confPrestige" : "95",
+      "confPrestige" : "90",
       "confName" : "SEC"
     },
     {
@@ -491,14 +491,14 @@
         }
       ],
       "confFullName" : "Big Ten",
-      "confPrestige" : "93",
+      "confPrestige" : "90",
       "confName" : "B1G"
     },
     {
       "confTeams" : [
         {
           "abbreviation" : "CLEM",
-          "prestige" : "95",
+          "prestige" : "90",
           "hexColor" : "#F66733",
           "rival" : "NCST",
           "headCoach" : {
@@ -642,7 +642,7 @@
         },
         {
           "abbreviation" : "ND",
-          "prestige" : "90",
+          "prestige" : "81",
           "hexColor" : "#0C2340",
           "rival" : "BC",
           "headCoach" : {
@@ -738,7 +738,7 @@
         }
       ],
       "confFullName" : "Atlantic Coastal Conference",
-      "confPrestige" : "91",
+      "confPrestige" : "86",
       "confName" : "ACC"
     },
     {
@@ -769,7 +769,7 @@
         },
         {
           "abbreviation" : "OU",
-          "prestige" : "91",
+          "prestige" : "85",
           "hexColor" : "#841617",
           "rival" : "UT",
           "headCoach" : {
@@ -985,7 +985,7 @@
         }
       ],
       "confFullName" : "Big 12",
-      "confPrestige" : "93",
+      "confPrestige" : "88",
       "confName" : "XII"
     },
     {
@@ -1232,7 +1232,7 @@
         }
       ],
       "confFullName" : "Pac 12",
-      "confPrestige" : "90",
+      "confPrestige" : "86",
       "confName" : "PAC"
     },
     {
@@ -1247,9 +1247,9 @@
             "startYear" : "2020",
             "age" : "41",
             "ratOff" : "90",
-            "cumulativePrestige" : "2",
+            "cumulativePrestige" : "0",
             "ratDef" : "70",
-            "homeState" : "South Dakota",
+            "homeState" : "Texas",
             "ratPot" : "95",
             "ratTalent" : "88",
             "baselinePrestige" : "70",
@@ -1479,7 +1479,7 @@
         }
       ],
       "confFullName" : "American Athletic Conference",
-      "confPrestige" : "48",
+      "confPrestige" : "60",
       "confName" : "AAC"
     },
     {
@@ -1726,7 +1726,7 @@
         }
       ],
       "confFullName" : "Mountain West Conference",
-      "confPrestige" : "40",
+      "confPrestige" : "50",
       "confName" : "MWC"
     },
     {
